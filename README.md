@@ -10,7 +10,7 @@ A free Tampermonkey userscript for Facebook Messenger that helps auto delete mes
 
 ## Screenshot
 
-![Delete Facebook Messages Result](screenshot.png)
+![Delete Facebook Messages Result](https://raw.githubusercontent.com/mhemon/Delete-Facebook-Messages/main/screenshot.png)
 
 ## Install
 
