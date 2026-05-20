@@ -1,6 +1,6 @@
-# Messenger Delete Chats Free
+# Delete Facebook Messages 2026
 
-A free Tampermonkey userscript for Messenger that helps delete chats one by one with an on-screen counter.
+A free Tampermonkey userscript for Facebook Messenger that helps auto delete messages one by one with an on-screen counter.
 
 ## Features
 
@@ -12,7 +12,7 @@ A free Tampermonkey userscript for Messenger that helps delete chats one by one 
 
 1. Install Tampermonkey or Violentmonkey in your browser.
 2. Open the raw `script.js` file from this repository or import it into your userscript manager.
-3. Save the script and open Messenger (https://www.messenger.com/).
+3. Save the script and open Messenger.
 4. Click `Delete All Chats`.
 
 ## Notes
@@ -20,6 +20,13 @@ A free Tampermonkey userscript for Messenger that helps delete chats one by one 
 - This script is not affiliated with Meta or Facebook.
 - Use it at your own risk.
 - Messenger changes may break selectors over time.
+ - If the `Delete All Chats` button doesn't show up, try a simple page refresh and then click it again.
+
+
+## Example Link
+
+- https://www.facebook.com/messages/
+- https://www.messenger.com/
 
 ## License
 
