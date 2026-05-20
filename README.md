@@ -8,6 +8,10 @@ A free Tampermonkey userscript for Facebook Messenger that helps auto delete mes
 - Shows an on-screen deleted count
 - Includes a Stop button
 
+## Screenshot
+
+![Delete Facebook Messages Result](screenshot.png)
+
 ## Install
 
 1. Install Tampermonkey or Violentmonkey in your browser.
